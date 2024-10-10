@@ -1,3 +1,3 @@
-javac helloworld.java # for compilation
+javac helloworld.java  -> for compilation
 
-java output # for executation
+java output  -> for executation
